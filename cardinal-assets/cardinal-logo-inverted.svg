@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg id="Livello_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.33 148.33">
+        <defs>
+            <style>
+                .cls-1{fill:#fafbf3;}
+                .cls-2{fill:#1d1d1b;}
+                .cls-2,.cls-3{stroke:#fafbf3;} 
+                .cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}
+                .cls-3,.cls-4{fill:#1d1d1b;}
+                .cls-4{fill:#1d1d1b;}
+            </style> 
+        </defs>
+        <g id="Livello_1-2"><g><g><rect class="cls-1" x=".5" y=".5" width="147.33" height="147.33" rx="34.89" ry="34.89"/><path class="cls-1" d="m112.94,148.33H35.39c-19.51,0-35.39-15.88-35.39-35.39V35.39C0,15.88,15.88,0,35.39,0h77.55c19.51,0,35.39,15.88,35.39,35.39v77.55c0,19.51-15.88,35.39-35.39,35.39ZM35.39,1C16.43,1,1,16.43,1,35.39v77.55c0,18.96,15.43,34.39,34.39,34.39h77.55c18.96,0,34.39-15.43,34.39-34.39V35.39c0-18.96-15.43-34.39-34.39-34.39H35.39Z"/></g><circle class="cls-2" cx="45.65" cy="72.32" r="17.68"/><g><rect class="cls-4" x="98.3" y="51.73" width="9.51" height="41.7" transform="translate(-21.38 92.68) rotate(-44.33)"/><rect class="cls-4" x="82.21" y="67.82" width="41.7" height="9.51" transform="translate(-20.87 95.59) rotate(-45.67)"/></g><rect class="cls-3" x="27.97" y="33.63" width="35.36" height="8.14"/></g></g>
+    </svg>

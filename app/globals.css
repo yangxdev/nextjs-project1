@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --dark-background: #201A27;
+    --dark-text-color: #EDEDED;
+    --dark-accent-green: #ABE6B2;
+    --dark-cards-background: #3F3B44;
+    --dark-element-active-background: #515251;
+
+    --background: #F4F4F4;          
+    --text-color: #333333;          
+    --accent-green: #498d49;        
+    --cards-background: #FFFFFF;    
+    --element-active-background: #e7e7e7; 
+}
+
+body {
+    color: var(--text-color);
+    background: var(--background);
+}
+
+html.dark body {
+    color: var(--dark-text-color);
+    background: var(--dark-background);
+}
+
+#routingMenu a.active {
+    background-color: var(--element-active-background);
+    color: var(--accent-green);
+}
+
+html.dark body
+#routingMenu a.active {
+    background-color: var(--dark-element-active-background);
+    color: var(--dark-accent-green);
+}
